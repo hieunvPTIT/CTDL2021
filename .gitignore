@@ -1,0 +1,11 @@
+*
+!/**/
+!*.*
+
+##### MacOS
+# General
+.DS_Store
+
+##### VisualStudioCode
+.vscode
+
